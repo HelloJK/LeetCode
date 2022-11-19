@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/a.out.dir/code.cpp.o  -o a.out 
