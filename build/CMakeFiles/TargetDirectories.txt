@@ -1,7 +1,0 @@
-/home/jk/private_proj/test/build/CMakeFiles/rebuild_cache.dir
-/home/jk/private_proj/test/build/CMakeFiles/two_sum.out.dir
-/home/jk/private_proj/test/build/CMakeFiles/largestAltitude.out.dir
-/home/jk/private_proj/test/build/CMakeFiles/test.out.dir
-/home/jk/private_proj/test/build/CMakeFiles/edit_cache.dir
-/home/jk/private_proj/test/build/CMakeFiles/pow.out.dir
-/home/jk/private_proj/test/build/CMakeFiles/a.out.dir

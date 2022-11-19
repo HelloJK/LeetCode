@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/largestAltitude.out.dir/largestAltitude.cpp.o  -o largestAltitude.out 
